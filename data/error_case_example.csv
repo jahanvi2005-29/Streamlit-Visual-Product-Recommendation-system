@@ -1,0 +1,2 @@
+Query_Index,Query_Category,Baseline_Retrieved,Baseline_Correct,Siamese_Retrieved,Siamese_Correct
+99,Shirts,Tshirts,False,Shirts,True

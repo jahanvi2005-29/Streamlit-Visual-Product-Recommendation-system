@@ -1,0 +1,29 @@
+# Streamlit
+*.pyc
+__pycache__/
+.streamlit/secrets.toml
+
+# Environment
+.env
+.venv/
+venv/
+env/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+nul
+
+# FAISS indices are build artifacts (rebuilt from .npy on app start)
+*.faiss
+
+# Note: .h5 and .npy files are NOT gitignored because they
+# fit within Streamlit Cloud's 1GB deployment limit.
+# Total size: ~102 MB (.h5: 91.5 MB + .npy: 10 MB)
+# If deploying elsewhere, consider Git LFS for these files.

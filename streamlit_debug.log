@@ -1,0 +1,19 @@
+2026-07-24 23:32:33.892 No ASGI app assignments found in C:\Users\HP\Downloads\Streamlit for Visual_product_recommender\streamlit_app\app.py
+2026-07-24 23:32:34.040 Filtered 71 packages down to 1 candidates for component scanning
+2026-07-24 23:32:34.040 Scanning 1 candidate packages for component manifests using 1 worker threads
+2026-07-24 23:32:34.127 Found 0 component manifests total
+2026-07-24 23:32:34.127 No asset roots to watch
+2026-07-24 23:32:34.127 File watching not started
+2026-07-24 23:32:34.127 Starting new event loop for server
+2026-07-24 23:32:34.128 Starting server...
+2026-07-24 23:32:34.173 Starting uvicorn server on :::8516
+2026-07-24 23:32:34.214 Runtime state: RuntimeState.INITIAL -> RuntimeState.NO_SESSIONS_CONNECTED
+2026-07-24 23:32:34.215 Uvicorn server started on :::8516
+
+  You can now view your Streamlit app in your browser.
+
+  Local URL: http://localhost:8516
+  Network URL: http://172.20.10.3:8516
+  External URL: http://47.15.77.171:8516
+
+2026-07-24 23:32:34.549 Setting up signal handler

@@ -1,0 +1,16 @@
+Model,Epoch,Metric,Value
+Transfer Learning,1,train_accuracy,0.9342
+Transfer Learning,1,train_loss,0.1957
+Transfer Learning,1,val_accuracy,0.9000
+Transfer Learning,1,val_loss,1.0969
+Transfer Learning,2,train_accuracy,0.9872
+Transfer Learning,2,train_loss,0.0509
+Transfer Learning,2,val_accuracy,0.9278
+Transfer Learning,2,val_loss,1.0193
+Transfer Learning,3,train_accuracy,0.9921
+Transfer Learning,3,train_loss,0.0244
+Transfer Learning,3,val_accuracy,0.9722
+Transfer Learning,3,val_loss,0.2452
+Siamese Network,1,triplet_loss,5.2413
+Siamese Network,2,triplet_loss,0.8977
+Siamese Network,3,triplet_loss,0.4454

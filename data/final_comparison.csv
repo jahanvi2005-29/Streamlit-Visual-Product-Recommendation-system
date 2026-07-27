@@ -1,0 +1,4 @@
+Model,Precision@5,Recall@5,Embedding_time_seconds
+Baseline (pretrained),0.972,0.016267,165.377275
+Transfer Learning,0.990,0.016568,177.334823
+Siamese Network,0.997,0.016685,184.324095

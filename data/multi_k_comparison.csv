@@ -1,0 +1,10 @@
+Model,K,Precision,Recall
+Baseline,5,0.972,0.016
+Transfer Learning,5,0.990,0.017
+Siamese,5,0.997,0.017
+Baseline,20,0.946,0.063
+Transfer Learning,20,0.988,0.066
+Siamese,20,0.990,0.066
+Baseline,50,0.913,0.153
+Transfer Learning,50,0.988,0.165
+Siamese,50,0.987,0.165

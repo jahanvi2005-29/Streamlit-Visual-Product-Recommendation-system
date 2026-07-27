@@ -1,0 +1,4 @@
+Metric,Value_ms
+Single-image embedding generation,346.7
+Similarity search over 1199 images,380.5
+Total end-to-end query time,727.2
