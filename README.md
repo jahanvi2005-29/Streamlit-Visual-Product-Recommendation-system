@@ -16,7 +16,7 @@
 
 ## 🌐 Live Demo
 
-> **Try it now:** [Streamlit Community Cloud Deployment](https://app-visual-appuct-recommendation-system-2gsfxmggxetowkcpecs9qj.streamlit.app/)
+> [Try the App](https://app-visual-appuct-recommendation-system-t3dnl2spqracg5kupebqmq.streamlit.app/)
 >
 > 
 ---
