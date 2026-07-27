@@ -23,6 +23,12 @@ nul
 # FAISS indices are build artifacts (rebuilt from .npy on app start)
 *.faiss
 
+# Streamlit run artifacts
+streamlit_out.txt
+streamlit_debug.log
+streamlit_server.log
+*.pid
+
 # Note: .h5 and .npy files are NOT gitignored because they
 # fit within Streamlit Cloud's 1GB deployment limit.
 # Total size: ~102 MB (.h5: 91.5 MB + .npy: 10 MB)
