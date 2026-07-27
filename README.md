@@ -16,10 +16,9 @@
 
 ## 🌐 Live Demo
 
-> **Try it now:** [Streamlit Community Cloud Deployment](https://YOUR-APP-URL.streamlit.app)
+> **Try it now:** [Streamlit Community Cloud Deployment]([https://YOUR-APP-URL.streamlit.app](https://app-visual-appuct-recommendation-system-t3dnl2spqracg5kupebqmq.streamlit.app/))
 >
-> *(Replace the URL above with your actual Streamlit Cloud URL after deployment)*
-
+> 
 ---
 
 ## 📋 Overview
